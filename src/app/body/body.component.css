@@ -1,0 +1,9 @@
+.focus-zone {
+  cursor: grab;
+  background-color: black;
+}
+
+#body-map{
+  width: 1346px;
+  height: 1529px;
+}
